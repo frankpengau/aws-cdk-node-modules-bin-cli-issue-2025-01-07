@@ -22,4 +22,8 @@ npx ts-node ./node_modules/aws-cdk/bin/cdk.js
 
 ./node_modules/aws-cdk/bin/cdk
 ./node_modules/.bin/cdk
+
+npx which cdk
+npx aws-cdk doctor
+npx aws-cdk doctor --verbose
 ```

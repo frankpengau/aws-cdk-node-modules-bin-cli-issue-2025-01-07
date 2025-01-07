@@ -10,6 +10,12 @@ Issues in question from following PRs:
 
 ./node_modules/aws-cdk/bin/cdk
 ./node_modules/.bin/cdk
+
+npx which cdk
+
+npx aws-cdk --version
+npx aws-cdk doctor
+npx aws-cdk doctor --verbose
 ```
 
 v2.73.1
