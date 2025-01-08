@@ -18,13 +18,13 @@ npx aws-cdk doctor
 npx aws-cdk doctor --verbose
 ```
 
-v2.73.1
+v2.173.1
 - In `node_modules/aws-cdk/bin`:
   - `cdk`
   - `cdk.js`
   - `cdk.d.ts`
 
-v2.74.0
+v2.174.0
 - In `node_modules/aws-cdk/bin`:
   - `cdk`
 
